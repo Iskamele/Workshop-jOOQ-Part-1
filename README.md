@@ -4,9 +4,9 @@
   <p><b>Dive into the code, share your insights, and join the conversation!</b></p>
   <p>⭐ Star if you find this helpful ⭐</p>
   <p>
-    <a href="https://github.com/your-username/jooq-workshop/discussions">💬 Discuss Best Practices</a> •
-    <a href="https://github.com/your-username/jooq-workshop/issues">🐞 Report Issues</a> •
-    <a href="#contribution-guide">👥 Contribute</a>
+    <a href="https://github.com/Iskamele/Workshop-jOOQ-Part-1/discussions/">💬 Discuss Best Practices</a> •
+    <a href="https://github.com/Iskamele/Workshop-jOOQ-Part-1/issues">🐞 Report Issues</a> •
+    Contribute
   </p>
 </div>
 
