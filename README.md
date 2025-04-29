@@ -1,3 +1,15 @@
+</div>
+<div align="center">
+  <h3>🔍 Learn, Review, Discuss! 🔍</h3>
+  <p><b>Dive into the code, share your insights, and join the conversation!</b></p>
+  <p>⭐ Star if you find this helpful ⭐</p>
+  <p>
+    <a href="https://github.com/your-username/jooq-workshop/discussions">💬 Discuss Best Practices</a> •
+    <a href="https://github.com/your-username/jooq-workshop/issues">🐞 Report Issues</a> •
+    <a href="#contribution-guide">👥 Contribute</a>
+  </p>
+</div>
+
 # Spring Boot jOOQ Research
 A demonstration project showcasing how to use jOOQ with Spring Boot for building efficient database operations in a real estate management application.
 
