@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: workshop_jooq
+  datasource:
+    username: ${POSTGRES_USERNAME}
+    password: ${POSTGRES_PASSWORD}
+    url: ${POSTGRES_URL}
+    driver-class-name: org.postgresql.Driver
+
+logging:
+  level:
+    org:
+      jooq:
+        tools:
+          LoggerListener: DEBUG
